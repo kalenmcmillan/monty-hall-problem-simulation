@@ -1,5 +1,5 @@
 # Monty Hall Problem Simulation
-A simple Python simulation of the Monty Hall problem that runs 100,000 trials to estimate probabilities based on the gameshow. It demonstrates how switching doors increases the chance of winning from about one-third to two-thirds, confirming the counterintuitive result of the probability puzzle.
+A Python script that simulates the Monty Hall problem, running 100,000 trials to calculate the probabilities of winning. It demonstrates how switching doors increases the chance of winning from about one-third to two-thirds, confirming the counterintuitive result of the probability puzzle.
 
 ## Problem Visualized
 - You are presented with three doors.
